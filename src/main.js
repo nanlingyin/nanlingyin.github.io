@@ -51,7 +51,7 @@ app.innerHTML = `
           <h1>Bring emotions<br /><span>to motion.</span></h1>
           <p class="hero-lede">A real-time emotion and motion framework for expressive AI characters. Turn language, voice, and context into continuous states, reactions, and movement.</p>
           <div class="hero-actions"><a class="button button-dark" href="#developers">Explore SDK ${icon('arrow', 17)}</a><a class="button button-light" href="https://github.com/nanlingyin/soullink-emotion-sdk" target="_blank" rel="noreferrer">${icon('github', 17)} View on GitHub</a></div>
-          <div class="hero-meta"><span>TypeScript-first</span><i></i><span>Live2D ready</span><i></i><span>MIT licensed</span><i></i><span>v0.1.0-beta.1</span></div>
+          <div class="hero-meta"><span>TypeScript-first</span><i></i><span>Live2D ready</span><i></i><span>MIT licensed</span><i></i><span>v0.2.0-beta.1</span></div>
         </div>
         <div class="hero-stage" aria-label="Live emotion visualization">
           <div class="stage-glow"></div><div class="stage-grid"></div>

@@ -34,7 +34,7 @@ app.innerHTML = `
         <div class="sidebar-group-label">接入教程</div>
         <nav class="toc" aria-label="文章目录"></nav>
         <div class="sidebar-footer">
-          <span>SDK v0.1.0-beta.1</span>
+          <span>SDK v0.2.0-beta.1</span>
           <span>Apache-2.0</span>
         </div>
       </div>
